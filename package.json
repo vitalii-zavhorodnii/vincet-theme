@@ -1,0 +1,21 @@
+{
+  "name": "vincet-dark-theme",
+  "displayName": "Vincet",
+  "description": "Dark Theme for own usage",
+  "version": "1.0",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "vincet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vincet-color-theme.json"
+      }
+    ]
+  }
+}

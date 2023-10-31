@@ -4,12 +4,19 @@
   "version": "0.0.1",
   "description": "dark theme for typescript users",
   "author": "https://github.com/vitalii-zavhorodnii",
+  "publisher": "VitaliiZavhorodnii",
   "repository": "https://github.com/vitalii-zavhorodnii/vincet-theme",
   "engines": {
     "vscode": "^1.83.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "typescript"
   ],
   "contributes": {
     "themes": [

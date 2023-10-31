@@ -1,9 +1,9 @@
 {
   "name": "vincet-theme",
-  "displayName": "Vincet",
-  "version": "1.0.1",
-  "description": "dark theme for typescript users",
-  "icon": "./icon.png",
+  "displayName": "Vincet Dark Theme",
+  "version": "1.0.2",
+  "description": "color palette",
+  "icon": "./icon.jpg",
   "author": "https://github.com/vitalii-zavhorodnii",
   "publisher": "VitaliiZavhorodnii",
   "repository": "https://github.com/vitalii-zavhorodnii/vincet-theme",
@@ -22,7 +22,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "vincet",
+        "label": "Vincet Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/vincet-color-theme.json"
       }

@@ -1,8 +1,10 @@
 {
-  "name": "vincet-dark-theme",
+  "name": "vincet-theme",
   "displayName": "Vincet",
-  "description": "Dark Theme for own usage",
-  "version": "1.0",
+  "version": "0.0.1",
+  "description": "dark theme for typescript users",
+  "author": "https://github.com/vitalii-zavhorodnii",
+  "repository": "https://github.com/vitalii-zavhorodnii/vincet-theme",
   "engines": {
     "vscode": "^1.83.0"
   },

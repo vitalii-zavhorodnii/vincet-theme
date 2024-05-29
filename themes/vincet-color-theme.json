@@ -17,7 +17,7 @@
     "editorWhitespace.foreground": "#F3FFB51A",
     "editor.lineHighlightBackground": "#2A2A2A",
     "editor.selectionBackground": "#2A2A2A",
-    "editor.inactiveSelectionBackground": "#E74C3C"
+    "editor.inactiveSelectionBackground": "#F3FFB530"
   },
   "tokenColors": [
     {
@@ -25,7 +25,7 @@
       "scope": "comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#606060"
+        "foreground": "#9E9FA5"
       }
     },
     {
@@ -33,6 +33,13 @@
       "scope": "invalid",
       "settings": {
         "foreground": "#ff0000"
+      }
+    },
+    {
+      "name": "Entity - functions, types, other",
+      "scope": ["entity"],
+      "settings": {
+        "foreground": "#2ECC71"
       }
     },
     {
@@ -83,7 +90,7 @@
       "name": "Color of 'this' class",
       "scope": ["variable.language"], // "this." color
       "settings": {
-        "foreground": "#2ECC71",
+        "foreground": "#3498DB",
         "fontStyle": "italic"
       }
     },
@@ -107,13 +114,6 @@
       "settings": {
         "fontStyle": "bold",
         "foreground": "#3498DB"
-      }
-    },
-    {
-      "name": "Entity - functions, types, other",
-      "scope": ["entity"],
-      "settings": {
-        "foreground": "#2ECC71"
       }
     },
     {

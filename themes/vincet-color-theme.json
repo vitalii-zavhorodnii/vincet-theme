@@ -91,7 +91,7 @@
       "scope": ["variable.language"], // "this." color
       "settings": {
         "foreground": "#3498DB",
-        "fontStyle": "italic"
+        "fontStyle": "italic bold"
       }
     },
     {
